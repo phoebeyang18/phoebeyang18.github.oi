@@ -43,3 +43,9 @@ nav ul li a:hover{
     color: crimson;
     transition: .4s;
 }
+.content{
+    position: absolute;
+    top: 50px;
+    left: 8%;
+    transform: translateY(-50%);
+}
