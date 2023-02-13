@@ -119,3 +119,21 @@ button:hover{
     border: 2px solid ;
     cursor: pointer;
 }
+.contact-me{
+    width: 100%;
+    height: 290px;
+    background: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.contact-me p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.contact-me .button-two{
+    
+}
