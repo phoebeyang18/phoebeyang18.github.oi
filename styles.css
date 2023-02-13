@@ -28,3 +28,18 @@ nav{
 span{
     color:aqua;
 }
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a{
+    color:blueviolet;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color: crimson;
+    transition: .4s;
+}
