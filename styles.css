@@ -135,5 +135,16 @@ button:hover{
     margin-bottom: 25px;
 }
 .contact-me .button-two{
-    
+    background-color:crimson;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: .4s;
+}
+.contact-me .button-two:hover{
+    background-color: transparent;
+    border: 2px solid brown ;
+    cursor: pointer;
 }
