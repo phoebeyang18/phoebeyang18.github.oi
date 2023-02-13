@@ -72,3 +72,20 @@ h4{
 .newslatter form input{
     display: inline-block;
 }
+.about{
+    width: 1005;
+    padding: 100px 0px;
+    background-color: darkviolet;
+}
+.about img{
+    height: auto;
+    width: 430px;
+}
+.about text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+}
