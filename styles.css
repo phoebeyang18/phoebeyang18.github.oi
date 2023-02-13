@@ -51,7 +51,7 @@ nav ul li a:hover{
     font-weight: bold;
     padding: 10px 25px;
     border-radius: 30px;
-    transition: transform ,4s;
+    transition: transform .4s;
 }
 .content{
     position: absolute;
